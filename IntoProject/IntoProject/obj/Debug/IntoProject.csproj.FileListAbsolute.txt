@@ -1,0 +1,2 @@
+C:\Users\Grandma\source\repos\INTO PROJECT\IntoProject\IntoProject\obj\Debug\IntoProject.csprojAssemblyReference.cache
+C:\Users\Grandma\source\repos\INTO PROJECT\IntoProject\IntoProject\obj\Debug\IntoProject.csproj.CoreCompileInputs.cache
